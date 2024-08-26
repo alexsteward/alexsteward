@@ -15,12 +15,12 @@ As a dedicated cybersecurity student with a strong foundation in IT, I am curren
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Creating and Managing Domains                 | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| API Integration                               | <a href="https://google.com">DiscordBot</a>|
+| Bot Development                               | <a href="https://google.com">DiscordBot</a>|
+| Javascript Programming                        | <a href="https://google.com">DiscordBot</a>|
+| N/A                                           | N/A |
+| N/A                                           | N/A |
+| N/A                                           | N/A |
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
