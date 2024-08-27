@@ -30,10 +30,10 @@ I am currently seeking an internship to apply my skills and gain hands-on experi
     <img src="https://img.shields.io/badge/-Metasploit-4C4C4C?&style=for-the-badge&logo=metasploit&logoColor=white" />
 </div>
 
-### Virtualization Tools
+### Virtualization
 <div>
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hyper--V-0078D7?&style=for-the-badge&logo=windows&logoColor=white" />
 </div>
 
 ### SIEM
