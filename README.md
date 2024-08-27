@@ -36,7 +36,7 @@ I am currently seeking an internship to apply my skills and gain hands-on experi
 
 ## Certifications
 
-None at the moment due to financial cirumstances. However, here is all the information I've learned so far under my education at Kellogg Community College. The full list can be found **<a href="https://github.com/alexsteward/course-materials">here</a>**
+I don't have any professional certifications at the moment due to financial cirumstances. However, here is all the information I've learned so far under my education at Kellogg Community College. The full list can be found **<a href="https://github.com/alexsteward/course-materials">here</a>**
 
 - **[Operating Systems - Linux/Unix Server](https://github.com/alexsteward/course-materials/blob/main/CET-252-SYLLABUS.pdf)** - Learned advanced skills in Linux/UNIX server administration.
 - **[A+ Computer Diag & Repair](https://github.com/alexsteward/course-materials/blob/main/CET-260-SYLLABUS.pdf)** - Learned part identification, computer repair, and advanced troubleshooting.
