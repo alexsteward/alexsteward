@@ -40,8 +40,8 @@ None at the moment due to financial cirumstances. However, here is all the infor
 
 - **[Operating Systems - Linux/Unix Server](./course-materials/CET-252-SYLLABUS.pdf)** - Learned advanced skills in Linux/UNIX server administration.
 - **[A+ Computer Diag & Repair](./course-materials/CET-260-SYLLABUS.pdf)** - Learned part identification, computer repair, and advanced troubleshooting.
-- **[Fundamentals of Securing Buisness & Industrial Devices](./course-materials/ISS-201-SYLLABUS.pdf)** Learned on focusing on protection strategies and vulnerability management.
-- **[IT & Project Management](./course-materials/IT-110-SYLLABUS.pdf)** Gained expertise in IT project planning, execution, and management principles.
+- **[Fundamentals of Securing Buisness & Industrial Devices](./course-materials/ISS-201-SYLLABUS.pdf)** - Learned on focusing on protection strategies and vulnerability management.
+- **[IT & Project Management](./course-materials/IT-110-SYLLABUS.pdf)** - Gained expertise in IT project planning, execution, and management principles.
 <div>
 
 
