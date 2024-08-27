@@ -38,6 +38,8 @@ I am currently seeking an internship to apply my skills and gain hands-on experi
 
 None at the moment due to financial cirumstances. However, here is all the information I've learned so far under my education at Kellogg Community College. The full list can be found **<a href="https://github.com/alexsteward/course-materials">here</a>**
 
+https://github.com/alexsteward/course-materials/blob/main/CET-252-SYLLABUS.pdf
+
 - **[Operating Systems - Linux/Unix Server](./course-materials/CET-252-SYLLABUS.pdf)** - Learned advanced skills in Linux/UNIX server administration.
 - **[A+ Computer Diag & Repair](./course-materials/CET-260-SYLLABUS.pdf)** - Learned part identification, computer repair, and advanced troubleshooting.
 - **[Fundamentals of Securing Buisness & Industrial Devices](./course-materials/ISS-201-SYLLABUS.pdf)** - Learned on focusing on protection strategies and vulnerability management.
