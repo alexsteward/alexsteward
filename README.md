@@ -40,4 +40,4 @@ N/A <div>
 
 
 ## Projects
-- | <a href="https://github.com/alexsteward/Discord-Bot/tree/main">DiscordBot</a>|
+- <a href="https://github.com/alexsteward/Discord-Bot/tree/main">DiscordBot</a>
