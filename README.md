@@ -1,4 +1,4 @@
-# Hello, I'm Alexander Steward.
+# Hello, I'm Alexander.
 <a href="https://www.linkedin.com/in/alex-steward-15782b22b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
