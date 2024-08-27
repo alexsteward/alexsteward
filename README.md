@@ -26,7 +26,7 @@ I am currently seeking an internship to apply my skills and gain hands-on experi
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=protocols.io&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metasploit-4C4C4C?&style=for-the-badge&logo=metasploit&logoColor=white" />
 </div>
 
