@@ -14,9 +14,9 @@ I am currently seeking an internship to apply my skills and gain hands-on experi
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| API Integration                               | <a href="https://github.com/alexsteward/Discord-Bot/tree/main">DiscordBot</a>|
-| Bot Development                               | <a href="https://github.com/alexsteward/Discord-Bot/tree/main">DiscordBot</a>|
-| Javascript Programming                        | <a href="https://github.com/alexsteward/Discord-Bot/tree/main">DiscordBot</a>|
+| API Integration                               | <a href="https://github.com/alexsteward/Discord-Bot/tree/main">Discord-Bot</a>|
+| Bot Development                               | <a href="https://github.com/alexsteward/Discord-Bot/tree/main">Discord-Bot</a>|
+| Javascript Programming                        | <a href="https://github.com/alexsteward/Discord-Bot/tree/main">Discord-Bot</a>|
 
 ## Tools
 
@@ -46,4 +46,4 @@ I don't have any professional certifications at the moment due to financial ciru
 
 
 ## Projects
-- <a href="https://github.com/alexsteward/Discord-Bot/tree/main">DiscordBot</a>
+- <a href="https://github.com/alexsteward/Discord-Bot/tree/main">Discord-Bot</a>
