@@ -36,7 +36,9 @@ I am currently seeking an internship to apply my skills and gain hands-on experi
 
 ## Certifications
 
-N/A <div>
+None at the moment due to financial cirumstances. However, here is all the information I've learned so far under my education at Kellogg Community College.
+
+<div>
 
 
 ## Projects
