@@ -7,7 +7,7 @@ I am a sophomore at Kellogg Community College pursuing an Associate degree in Cy
 
 ## Objective
 
-As a dedicated cybersecurity student with a strong foundation in IT, I am currently seeking an internship to apply my skills and gain hands-on experience in the field. My goal is to leverage my academic knowledge and practical experience to contribute effectively to a dynamic IT team while continuing to grow and learn within the industry.
+I am currently seeking an internship to apply my skills and gain hands-on experience in the field. My goal is to leverage my academic knowledge and practical experience to contribute effectively to a dynamic IT team while continuing to grow and learn within the industry.
 
 
 ## Skills
