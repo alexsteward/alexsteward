@@ -38,7 +38,7 @@ I am currently seeking an IT internship or part-time position to apply my skills
 
 I don't have any professional certifications at the moment due to financial cirumstances. However, here is some important information I've learned so far under my education at Kellogg Community College and other education sources. 
 
-**<a href="https://github.com/alexsteward/course-materials">Course Materials</a>** and  **<a href="https://github.com/alexsteward/course-materials">Certificates</a>**
+**<a href="https://github.com/alexsteward/course-materials">Course Materials</a>** and  **<a href="https://github.com/alexsteward/certificates">Certificates</a>**
 
 - **[Security+](https://github.com/alexsteward/course-materials/blob/main/CET-250-SYALLBUS.pdf)** - Learned advanced skills in Windows Network Administration.
 - **[A+ Computer Diag & Repair](https://github.com/alexsteward/course-materials/blob/main/CET-260-SYLLABUS.pdf)** - Learned part identification, computer repair, and advanced troubleshooting.
