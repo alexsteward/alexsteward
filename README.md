@@ -17,6 +17,7 @@ I am currently seeking an IT internship or part-time position to apply my skills
 | API Integration                               | <a href="https://github.com/alexsteward/Discord-Bot/tree/main">Discord-Bot</a>|
 | Bot Development                               | <a href="https://github.com/alexsteward/Discord-Bot/tree/main">Discord-Bot</a>|
 | Javascript Programming                        | <a href="https://github.com/alexsteward/Discord-Bot/tree/main">Discord-Bot</a>|
+| Bash/Shell Scripting                          | <a href="https://github.com/alexsteward/LinuxScripts">Linux Scripts</a>       |
 
 ## Tools
 
@@ -49,3 +50,4 @@ I don't have any professional certifications at the moment due to financial ciru
 
 ## Projects
 - <a href="https://github.com/alexsteward/Discord-Bot/tree/main">Discord-Bot</a>
+- <a href="https://github.com/alexsteward/LinuxScripts">Linux Scripts</a>
