@@ -17,7 +17,9 @@ I am currently seeking an IT internship or part-time position to apply my skills
 | API Integration                               | <a href="https://github.com/alexsteward/Discord-Bot/tree/main">Discord-Bots</a>|
 | Bot Development                               | <a href="https://github.com/alexsteward/Discord-Bot/tree/main">Discord-Bots</a>|
 | Javascript Programming                        | <a href="https://github.com/alexsteward/Discord-Bot/tree/main">Discord-Bots</a>|
-| Bash/Shell Scripting                          | <a href="https://github.com/alexsteward/LinuxScripts">Linux Scripts</a>       |
+| Bash/Shell Scripting                          | <a href="https://github.com/alexsteward/LinuxScripts">Linux Scripts</a>        |
+| Network Design & Configuration                | <a href="https://github.com/alexsteward/cisco-packet-tracer">Cisco Packet Tracer</a>  |
+| IP Addressing & Subnetting                    | <a href="https://github.com/alexsteward/cisco-packet-tracer">Cisco Packet Tracer</a>  |
 
 ## Tools
 
