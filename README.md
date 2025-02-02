@@ -35,6 +35,7 @@ I am currently seeking an IT internship or part-time position to apply my skills
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
     <img src="https://img.shields.io/badge/-Hyper--V-0078D7?&style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=vmware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Proxmox-8A8B8E?&style=for-the-badge&logo=proxmox&logoColor=white" />
 </div>
 
 ## Certifications / Certificates
