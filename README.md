@@ -7,9 +7,8 @@
   <div>
     <a href="https://www.linkedin.com/in/alex-steward-15782b22b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:alexstew321@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://github.com/alexsteward"><img src="https://img.shields.io/badge/-GitHub/Portfolio-181717?&style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href="https://ifixtech.tech"><img src="https://img.shields.io/badge/-iFixTech-4285F4?&style=for-the-badge&logo=safari&logoColor=white"/></a>
-    <a href="tel:+12692230875"><img src="https://img.shields.io/badge/-269--223--0875-0078D4?&style=for-the-badge&logo=phone&logoColor=white"/></a>
+    <a href="https://instagram.com/your_instagram"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   </div>
 </div>
 
@@ -24,27 +23,25 @@ Currently seeking an IT internship or part-time position to apply my skills in a
 ## 🛠️ Technical Skills & Core Competencies
 
 ### Cybersecurity
-<div>
-  <img src="https://img.shields.io/badge/-Penetration_Testing-4B0082?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Ethical_Hacking-8B0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Vulnerability_Assessment-006400?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-IDS/IPS-FF4500?style=for-the-badge"/>
-</div>
+- Penetration Testing and Vulnerability Assessment
+- Ethical Hacking and Exploit Development
+- Security Auditing and Compliance
+- Intrusion Detection/Prevention Systems (IDS/IPS)
+- Network Security Monitoring
 
 ### Networking
-<div>
-  <img src="https://img.shields.io/badge/-Cisco_Routing_&_Switches-00416A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-LAN/WAN_Configuration-4B0082?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Firewall_Configuration-8B0000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Packet_Analysis-006400?style=for-the-badge"/>
-</div>
+- Cisco Routing & Switching Configuration
+- LAN/WAN Setup and Management
+- Firewall Configuration and Management
+- Packet Analysis and Network Troubleshooting
+- Network Segmentation and VLAN Implementation
 
-### Programming
-<div>
-  <img src="https://img.shields.io/badge/-Proficient:_Python,_Java,_HTML-00416A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Intermediate:_SQL,_Bash-4B0082?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Familiar:_Powershell,_C++-8B0000?style=for-the-badge"/>
-</div>
+### Programming & Development
+- Object-Oriented Programming
+- Web Development
+- Script Automation
+- Database Management
+- Version Control (Git)
 
 ### Technical Tools
 
@@ -102,34 +99,47 @@ Currently seeking an IT internship or part-time position to apply my skills in a
   </ul>
   
   <h3>🏆 Earned Certifications</h3>
-  <img src="https://img.shields.io/badge/-CompTIA_ITF+-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CompTIA_A+_Core_1_1101-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-ISC2_Certified_In_Cybersecurity-2D509F?&style=for-the-badge&logo=isc2&logoColor=white"/>
+  <div>
+    <img src="https://img.shields.io/badge/-CompTIA_ITF+-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CompTIA_A+_Core_1_(1101)-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
+  </div>
   
   <h3>⏳ Certifications In Progress</h3>
-  <div>
-    <img src="https://img.shields.io/badge/-CompTIA_A+_Core_2_1102-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
-    <div style="width:70%;height:5px;background-color:#ddd;margin:5px 0;">
-      <div style="width:90%;height:5px;background-color:#E31837;"></div>
-    </div>
-    <p align="right"><i>Expected: April 2025 (90% complete)</i></p>
-  </div>
-  
-  <div>
-    <img src="https://img.shields.io/badge/-CompTIA_Network+-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
-    <div style="width:70%;height:5px;background-color:#ddd;margin:5px 0;">
-      <div style="width:60%;height:5px;background-color:#E31837;"></div>
-    </div>
-    <p align="right"><i>Expected: May 2025 (60% complete)</i></p>
-  </div>
-  
-  <div>
-    <img src="https://img.shields.io/badge/-CompTIA_Security+-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
-    <div style="width:70%;height:5px;background-color:#ddd;margin:5px 0;">
-      <div style="width:40%;height:5px;background-color:#E31837;"></div>
-    </div>
-    <p align="right"><i>Expected: June 2025 (40% complete)</i></p>
-  </div>
+  <table>
+    <tr>
+      <td width="60%">
+        <img src="https://img.shields.io/badge/-CompTIA_A+_Core_2_(1102)-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
+      </td>
+      <td width="40%" align="right">
+        <div style="width:100%;height:10px;background-color:#ddd;border-radius:5px;">
+          <div style="width:90%;height:10px;background-color:#E31837;border-radius:5px;"></div>
+        </div>
+        <i>Expected: April 2025 | 90% complete</i>
+      </td>
+    </tr>
+    <tr>
+      <td width="60%">
+        <img src="https://img.shields.io/badge/-CompTIA_Network+-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
+      </td>
+      <td width="40%" align="right">
+        <div style="width:100%;height:10px;background-color:#ddd;border-radius:5px;">
+          <div style="width:60%;height:10px;background-color:#E31837;border-radius:5px;"></div>
+        </div>
+        <i>Expected: May 2025 | 60% complete</i>
+      </td>
+    </tr>
+    <tr>
+      <td width="60%">
+        <img src="https://img.shields.io/badge/-CompTIA_Security+-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
+      </td>
+      <td width="40%" align="right">
+        <div style="width:100%;height:10px;background-color:#ddd;border-radius:5px;">
+          <div style="width:40%;height:10px;background-color:#E31837;border-radius:5px;"></div>
+        </div>
+        <i>Expected: June 2025 | 40% complete</i>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🚀 Featured Projects
@@ -193,25 +203,12 @@ Currently seeking an IT internship or part-time position to apply my skills in a
   </tr>
 </table>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexsteward&show_icons=true&count_private=true&hide=issues&theme=radical" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsteward&layout=compact&theme=radical" alt="Top Languages" height="170"/>
-</div>
-
 ## 💼 Experience
 
 **iFixTech** | Founder & Support Technician | *Hastings, MI*
 - Providing technical support and computer repair services while studying
 - Upgrading hardware components and troubleshooting system issues
 - Website: [iFixTech.tech](https://ifixtech.tech)
-
-## 📫 Contact Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/alex-steward-15782b22b/)
-- 📧 [alexstew321@gmail.com](mailto:alexstew321@gmail.com)
-- 📱 [(269) 223-0875](tel:+12692230875)
 
 ---
 
