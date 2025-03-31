@@ -6,21 +6,47 @@
   
   <div>
     <a href="https://www.linkedin.com/in/alex-steward-15782b22b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://alexsteward.github.io"><img src="https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-    <a href="https://github.com/alexsteward"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="mailto:alexstew321@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://github.com/alexsteward"><img src="https://img.shields.io/badge/-GitHub/Portfolio-181717?&style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://ifixtech.tech"><img src="https://img.shields.io/badge/-iFixTech-4285F4?&style=for-the-badge&logo=safari&logoColor=white"/></a>
+    <a href="tel:+12692230875"><img src="https://img.shields.io/badge/-269--223--0875-0078D4?&style=for-the-badge&logo=phone&logoColor=white"/></a>
   </div>
 </div>
 
 ## 📄 Professional Summary
 
-Motivated Cybersecurity student with hands-on experience in network security, system administration, and secure application development. Currently pursuing an Associate degree in Cybersecurity at Kellogg Community College with plans to continue at Ferris State University. Demonstrated technical aptitude through practical projects including network simulation, security testing tools, and system automation scripts. Seeking to leverage academic knowledge and project experience in an entry-level IT position while continuing to develop cybersecurity expertise.
+Cybersecurity student at Kellogg Community College with hands-on experience in network security, system administration, and secure application development. Founder of iFixTech, providing technical support services while studying. Demonstrated technical aptitude through practical projects in GitHub repositories focused on network security, system automation, and development. Seeking to leverage my skills in an entry-level IT position while continuing to develop cybersecurity expertise.
 
 ## 🎯 Career Objective
 
 Currently seeking an IT internship or part-time position to apply my skills in a professional environment. My goal is to leverage my academic knowledge and project experience to contribute meaningfully to an IT team while continuing to grow within the industry.
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Skills & Core Competencies
+
+### Cybersecurity
+<div>
+  <img src="https://img.shields.io/badge/-Penetration_Testing-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Ethical_Hacking-8B0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Vulnerability_Assessment-006400?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-IDS/IPS-FF4500?style=for-the-badge"/>
+</div>
+
+### Networking
+<div>
+  <img src="https://img.shields.io/badge/-Cisco_Routing_&_Switches-00416A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-LAN/WAN_Configuration-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Firewall_Configuration-8B0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Packet_Analysis-006400?style=for-the-badge"/>
+</div>
+
+### Programming
+<div>
+  <img src="https://img.shields.io/badge/-Proficient:_Python,_Java,_HTML-00416A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Intermediate:_SQL,_Bash-4B0082?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Familiar:_Powershell,_C++-8B0000?style=for-the-badge"/>
+</div>
+
+### Technical Tools
 
 <table>
   <tr>
@@ -65,17 +91,24 @@ Currently seeking an IT internship or part-time position to apply my skills in a
 <div>
   <h3>🎓 Education</h3>
   <ul>
-    <li><strong>Kellogg Community College</strong> - Associate in Cybersecurity (Expected: May 2025)</li>
-    <li><strong>Ferris State University</strong> - Bachelor in Cybersecurity (Future Plan)</li>
+    <li><strong>Kellogg Community College</strong> - Associate in Cybersecurity (Expected: May 2025)
+      <ul>
+        <li><em>GPA:</em> 3.72</li>
+        <li><em>Honors:</em> President's List (4 Semesters)</li>
+        <li><em>Relevant Coursework:</em> Network Security, Ethical Hacking, System Administration</li>
+        <li><a href="https://github.com/alexsteward/Cybersecurity-Coursework"><img src="https://img.shields.io/badge/-Course_Syllabi-417EAF?&style=flat&logo=read-the-docs&logoColor=white"/></a></li>
+      </ul>
+    </li>
   </ul>
   
   <h3>🏆 Earned Certifications</h3>
   <img src="https://img.shields.io/badge/-CompTIA_ITF+-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CompTIA_A+_Core_1-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CompTIA_A+_Core_1_1101-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ISC2_Certified_In_Cybersecurity-2D509F?&style=for-the-badge&logo=isc2&logoColor=white"/>
   
   <h3>⏳ Certifications In Progress</h3>
   <div>
-    <img src="https://img.shields.io/badge/-CompTIA_A+_Core_2-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CompTIA_A+_Core_2_1102-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
     <div style="width:70%;height:5px;background-color:#ddd;margin:5px 0;">
       <div style="width:90%;height:5px;background-color:#E31837;"></div>
     </div>
@@ -104,26 +137,26 @@ Currently seeking an IT internship or part-time position to apply my skills in a
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Discord Bot Development</h3>
+      <h3 align="center">Discord Task Bot</h3>
       <div align="center">
-        <a href="https://github.com/alexsteward/Discord-Bot/tree/main" target="_blank">
+        <a href="https://github.com/alexsteward/Discord-Bot" target="_blank">
           <img src="https://raw.githubusercontent.com/github/explore/2a3ce46f963399611d8e2054bb0ce9a4b539296a/topics/discord/discord.png" width="100" alt="Discord Bot"/>
         </a>
-        <p><strong>Tech Stack:</strong> JavaScript, Node.js, Discord.js</p>
-        <p>A feature-rich Discord bot designed to streamline server management and enhance user engagement with real-time data processing capabilities.</p>
-        <a href="https://github.com/alexsteward/Discord-Bot/tree/main" target="_blank">
+        <p><strong>Tech Stack:</strong> Python, Discord.py</p>
+        <p>Developed a feature-rich Discord bot for task management with point tracking system and interactive GUI buttons.</p>
+        <a href="https://github.com/alexsteward/Discord-Bot" target="_blank">
           <img src="https://img.shields.io/badge/-GitHub_Repo-181717?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
         </a>
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Network Simulation & Security</h3>
+      <h3 align="center">Cisco Network Configuration</h3>
       <div align="center">
         <a href="https://github.com/alexsteward/cisco-packet-tracer" target="_blank">
           <img src="https://img.icons8.com/color/452/cisco-router.png" width="100" alt="Cisco Packet Tracer"/>
         </a>
         <p><strong>Tech Stack:</strong> Cisco Packet Tracer, Network Protocols</p>
-        <p>Implementation of various network topologies and security configurations demonstrating routing, switching, and network security principles.</p>
+        <p>Implementation of secure network architectures with proper segmentation, firewall rules, and intrusion detection systems.</p>
         <a href="https://github.com/alexsteward/cisco-packet-tracer" target="_blank">
           <img src="https://img.shields.io/badge/-GitHub_Repo-181717?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
         </a>
@@ -135,17 +168,17 @@ Currently seeking an IT internship or part-time position to apply my skills in a
       <h3 align="center">Password Security Tester</h3>
       <div align="center">
         <a href="https://github.com/alexsteward/Password-Security-Tester" target="_blank">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="100" alt="Python Security Tool"/>
+          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/security/security.png" width="100" alt="Password Security"/>
         </a>
         <p><strong>Tech Stack:</strong> Python, Cryptography Libraries</p>
-        <p>A tool demonstrating the vulnerability of various password hashing algorithms to brute-force attacks, emphasizing security best practices.</p>
+        <p>Tool demonstrating the vulnerability of various password hashing algorithms to brute-force attacks with educational components.</p>
         <a href="https://github.com/alexsteward/Password-Security-Tester" target="_blank">
           <img src="https://img.shields.io/badge/-GitHub_Repo-181717?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repo"/>
         </a>
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Linux System Administration</h3>
+      <h3 align="center">Linux Scripts</h3>
       <div align="center">
         <a href="https://github.com/alexsteward/LinuxScripts" target="_blank">
           <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" width="100" alt="Linux Scripts"/>
@@ -167,13 +200,18 @@ Currently seeking an IT internship or part-time position to apply my skills in a
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsteward&layout=compact&theme=radical" alt="Top Languages" height="170"/>
 </div>
 
-## 📫 Let's Connect
+## 💼 Experience
 
-I'm always open to collaborating on projects and innovative ideas in the world of cybersecurity and IT. Feel free to reach out to me through:
+**iFixTech** | Founder & Support Technician | *Hastings, MI*
+- Providing technical support and computer repair services while studying
+- Upgrading hardware components and troubleshooting system issues
+- Website: [iFixTech.tech](https://ifixtech.tech)
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [Alex Steward](https://www.linkedin.com/in/alex-steward-15782b22b/)
-- 🌐 Portfolio: [alexsteward.github.io](https://alexsteward.github.io)
+## 📫 Contact Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/alex-steward-15782b22b/)
+- 📧 [alexstew321@gmail.com](mailto:alexstew321@gmail.com)
+- 📱 [(269) 223-0875](tel:+12692230875)
 
 ---
 
