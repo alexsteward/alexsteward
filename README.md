@@ -168,7 +168,7 @@ Currently seeking an IT internship or part-time position to apply my skills in a
       <h3 align="center">Password Security Tester</h3>
       <div align="center">
         <a href="https://github.com/alexsteward/Password-Security-Tester" target="_blank">
-          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/security/security.png" width="100" alt="Password Security"/>
+          <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="100" alt="Password Security"/>
         </a>
         <p><strong>Tech Stack:</strong> Python, Cryptography Libraries</p>
         <p>Tool demonstrating the vulnerability of various password hashing algorithms to brute-force attacks with educational components.</p>
