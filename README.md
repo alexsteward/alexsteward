@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Alexander Steward</h1>
-  <h3>Cybersecurity Professional | IT Specialist</h3>
+  <h3>Cybersecurity Student | IT Enthusiast</h3>
   <p>Kellogg Community College | Future Ferris State University Student</p>
-  <p>Battle Creek, MI</p>
+  <p>Hastings, MI</p>
   
   <div>
     <a href="https://www.linkedin.com/in/alex-steward-15782b22b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
