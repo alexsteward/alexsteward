@@ -40,13 +40,16 @@ I am currently seeking an IT internship or part-time position to apply my skills
 
 ## Certifications / Certificates
 
-I don't have any professional certifications at the moment due to financial cirumstances. However, here is some important information I've learned so far under my education at Kellogg Community College and other education sources. 
+### ✅ Earned Certifications:
+<img src="https://img.shields.io/badge/-CompTIA_ITF+-E31837?&style=for-the-badge&logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/-CompTIA_A+_Core_1-E31837?&style=for-the-badge&logo=comptia&logoColor=white" />
 
-**<a href="https://github.com/alexsteward/course-materials">Course Materials</a>** and  **<a href="https://github.com/alexsteward/certificates">Certificates</a>**
+### ⏳ In Progress:
+<img src="https://img.shields.io/badge/-⏳_CompTIA_A+_Core_2_(ETA: 4/25)-E31837?&style=for-the-badge&logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/-⏳_CompTIA_Network+_(ETA: 5/25)-E31837?&style=for-the-badge&logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/-⏳_CompTIA_Security+_(ETA: 6/25)-E31837?&style=for-the-badge&logo=comptia&logoColor=white" />
 
-- **[Security+](https://github.com/alexsteward/course-materials/blob/main/CET-250-SYALLBUS.pdf)** - Learned advanced skills in Windows Network Administration.
-- **[A+ Computer Diag & Repair](https://github.com/alexsteward/course-materials/blob/main/CET-260-SYLLABUS.pdf)** - Learned part identification, computer repair, and advanced troubleshooting.
-- **[Linux/Unix Administration](https://github.com/alexsteward/course-materials/blob/main/CET-152-SYLLABUS.pdf)** - Learned about administration Linux/Unix Systems.
+
 
 <div>
 
