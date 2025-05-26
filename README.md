@@ -90,7 +90,7 @@ Currently seeking an IT internship or part-time position to apply my skills in a
   <ul>
     <li><strong>Kellogg Community College</strong> - Associate in Cybersecurity (Expected: May 2025)
       <ul>
-        <li><em>GPA:</em> 3.72</li>
+        <li><em>GPA:</em> 3.78</li>
         <li><em>Honors:</em> President's List (4 Semesters)</li>
         <li><em>Relevant Coursework:</em> Network Security, Ethical Hacking, System Administration</li>
         <li><a href="https://github.com/alexsteward/Cybersecurity-Coursework"><img src="https://img.shields.io/badge/-Course_Syllabi-417EAF?&style=flat&logo=read-the-docs&logoColor=white"/></a></li>
