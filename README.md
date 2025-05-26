@@ -114,7 +114,7 @@ Currently seeking an IT internship or part-time position to apply my skills in a
         <div style="width:100%;height:10px;background-color:#ddd;border-radius:5px;">
           <div style="width:60%;height:10px;background-color:#E31837;border-radius:5px;"></div>
         </div>
-        <i>Expected: May 2025 | 60% complete</i>
+        <i>Expected: June 2025 | 60% complete</i>
       </td>
     </tr>
     <tr>
@@ -125,7 +125,7 @@ Currently seeking an IT internship or part-time position to apply my skills in a
         <div style="width:100%;height:10px;background-color:#ddd;border-radius:5px;">
           <div style="width:40%;height:10px;background-color:#E31837;border-radius:5px;"></div>
         </div>
-        <i>Expected: June 2025 | 40% complete</i>
+        <i>Expected: July 2025 | 40% complete</i>
       </td>
     </tr>
   </table>
