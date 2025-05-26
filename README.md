@@ -108,17 +108,6 @@ Currently seeking an IT internship or part-time position to apply my skills in a
   <table>
     <tr>
       <td width="60%">
-        <img src="https://img.shields.io/badge/-CompTIA_A+_Core_2_(1102)-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
-      </td>
-      <td width="40%" align="right">
-        <div style="width:100%;height:10px;background-color:#ddd;border-radius:5px;">
-          <div style="width:90%;height:10px;background-color:#E31837;border-radius:5px;"></div>
-        </div>
-        <i>Expected: April 2025 | 90% complete</i>
-      </td>
-    </tr>
-    <tr>
-      <td width="60%">
         <img src="https://img.shields.io/badge/-CompTIA_Network+-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
       </td>
       <td width="40%" align="right">
