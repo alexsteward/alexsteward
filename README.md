@@ -102,14 +102,13 @@ Currently seeking an IT internship or part-time position to apply my skills in a
   <div>
     <img src="https://img.shields.io/badge/-CompTIA_ITF+-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CompTIA+-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-CompTIA_Network+-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
+
   </div>
   
   <h3>⏳ Certifications In Progress</h3>
   <table>
     <tr>
-      <td width="60%">
-        <img src="https://img.shields.io/badge/-CompTIA_Network+-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
-      </td>
       <td width="40%" align="right">
         <div style="width:100%;height:10px;background-color:#ddd;border-radius:5px;">
           <div style="width:60%;height:10px;background-color:#E31837;border-radius:5px;"></div>
