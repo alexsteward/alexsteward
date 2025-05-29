@@ -194,6 +194,16 @@ Currently seeking an IT internship or part-time position to apply my skills in a
 
 ## 💼 Experience
 
+**AK Group LLC** | IT Support Specialist | *Grand Rapids, MI*
+- Provided on-site IT support for staff across multiple schools
+- Installed and maintained security cameras and ran network cabling
+- Logged and resolved help desk requests efficiently
+- Handled hardware/software troubleshooting and repairs
+
+
+
+---
+
 **iFixTech** | Founder & Support Technician | *Hastings, MI*
 - Providing technical support and computer repair services while studying
 - Upgrading hardware components and troubleshooting system issues
