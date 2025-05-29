@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Alexander Steward</h1>
   <h3>Cybersecurity Student | IT Enthusiast</h3>
-  <p>Kellogg Community College | Future Ferris State University Student</p>
+  <p>IT Support Specialist | Future Ferris State University Student</p>
   <p>Hastings, MI</p>
   
   <div>
