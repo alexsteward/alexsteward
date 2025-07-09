@@ -101,6 +101,7 @@ Currently seeking an IT internship or part-time position to apply my skills in a
   
   <h3>🏆 Earned Certifications</h3>
   <div>
+    <img src="https://img.shields.io/badge/-CompTIA_CSIS-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/><br>
     <img src="https://img.shields.io/badge/-CompTIA_Security+-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/><br>
     <img src="https://img.shields.io/badge/-CompTIA_CIOS-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/><br>
     <img src="https://img.shields.io/badge/-CompTIA_Network+-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/><br>
