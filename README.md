@@ -101,10 +101,11 @@ Currently seeking an IT internship or part-time position to apply my skills in a
   
   <h3>🏆 Earned Certifications</h3>
   <div>
-    <img src="https://img.shields.io/badge/-CompTIA_ITF+-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-CompTIA+-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-CompTIA_Network+-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
-
+    <img src="https://img.shields.io/badge/-CompTIA_Security+-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/-CompTIA_CIOS-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/-CompTIA_Network+-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/-CompTIA+-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/><br>
+    <img src="https://img.shields.io/badge/-CompTIA_ITF+-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/><br>
   </div>
   
   <h3>⏳ Certifications In Progress</h3>
@@ -114,12 +115,12 @@ Currently seeking an IT internship or part-time position to apply my skills in a
         <div style="width:100%;height:10px;background-color:#ddd;border-radius:5px;">
           <div style="width:60%;height:10px;background-color:#E31837;border-radius:5px;"></div>
         </div>
-        <i>Expected: June 2025 | 60% complete</i>
+        <i>Expected: September 2025</i>
       </td>
     </tr>
     <tr>
       <td width="60%">
-        <img src="https://img.shields.io/badge/-CompTIA_Security+-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-CompTIA_CySA+-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
       </td>
       <td width="40%" align="right">
         <div style="width:100%;height:10px;background-color:#ddd;border-radius:5px;">
