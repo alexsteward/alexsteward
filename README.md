@@ -120,7 +120,8 @@ Seeking an **entry-level IT or cybersecurity position** to apply technical skill
 ---
 
 ### ⏳ Certifications In Progress
-
+<img src="https://img.shields.io/badge/-CPTS_(Hack_The_Box)-9FEF00?&style=for-the-badge&logo=hackthebox&logoColor=black"/>
+<img src="https://img.shields.io/badge/-OSCP%2B_(Offensive_Security)-E4000F?&style=for-the-badge&logo=offsec&logoColor=white"/>
 
 ---
 
