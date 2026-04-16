@@ -107,14 +107,15 @@ Seeking an **entry-level IT or cybersecurity position** to apply technical skill
 ---
 
 ### 🏆 Earned Certifications
-<img src="https://img.shields.io/badge/-CompTIA_CSIS-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CRTO_(Zero_Point_Security)-1E90FF?&style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/-PNPT_(TCM_Security)-2F855A?&style=for-the-badge&logo=tcms&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CompTIA_Security+-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CompTIA_CSIS-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CompTIA_CIOS-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CompTIA_Network+-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CompTIA_A+-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
 <img src="https://img.shields.io/badge/-CompTIA_ITF+-E31837?&style=for-the-badge&logo=comptia&logoColor=white"/>
-<img src="https://img.shields.io/badge/-PNPT_(TCM_Security)-2F855A?&style=for-the-badge&logo=tcms&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CRTO_(Zero_Point_Security)-1E90FF?&style=for-the-badge&logo=hackthebox&logoColor=white"/>
+
 
 ---
 
