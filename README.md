@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Alexander Steward</h1>
   <h3>Cybersecurity Graduate | Red Team Enthusiast</h3>
-  <p>IT Support Specialist | Future Ferris State University Student</p>
+  <p>IT & Security Specialist (Level 2) | Ferris State University Student</p>
   <p>Hastings, MI</p>
   
   <div>
@@ -16,7 +16,7 @@
 
 ## 📄 Professional Summary
 
-Cybersecurity graduate with an **Associate degree from Kellogg Community College**, currently studying at **Ferris State University** to pursue a Bachelor's in Information Security and Intelligence. Experienced in network security, system administration, and secure software development. Founder of **iFixTech**, providing professional IT support services while studying. Demonstrated technical aptitude through hands-on projects and repositories focused on **cybersecurity, automation, and infrastructure**.
+Cybersecurity professional with an **Associate degree from Kellogg Community College**, currently pursuing a **Bachelor's in Information Security and Intelligence at Ferris State University**. Passionate about **offensive security, red teaming, and adversary simulation**. Founder of **iFixTech**, providing professional IT support services while studying. Demonstrated technical aptitude through hands-on projects and repositories focused on **penetration testing, exploit development, and attack infrastructure**.
 
 > 🔗 Explore my dedicated repositories:  
 > - [🎓 Certificates & Certifications](https://github.com/alexsteward/Certifications)  
