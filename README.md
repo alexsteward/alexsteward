@@ -5,7 +5,7 @@
   <p>Hastings, MI</p>
   
   <div>
-    <a href="https://www.linkedin.com/in/alex-steward-15782b22b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/alexsteward1/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:alexstew321@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://ifixtech.tech"><img src="https://img.shields.io/badge/-iFixTech-4285F4?&style=for-the-badge&logo=safari&logoColor=white"/></a>
     <a href="https://github.com/alexsteward"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white"/></a>
