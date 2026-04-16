@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Alexander Steward</h1>
-  <h3>Penetration Tester | Red Team Enthusiast</h3>
+  <h3>Aspiring Penetration Tester</h3>
   <p>IT & Security Specialist II | Ferris State University Student</p>
   <p>Hastings, MI</p>
   
